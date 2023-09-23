@@ -7,13 +7,13 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBec9LSZ37WtVXKp83Qj7gKcTYTsYcjA4g",
-  authDomain: "bongo-bangla.firebaseapp.com",
-  projectId: "bongo-bangla",
-  storageBucket: "bongo-bangla.appspot.com",
-  messagingSenderId: "19612817777",
-  appId: "1:19612817777:web:f636aeca4f8d57767ffed0",
-  measurementId: "G-KZGM8M4C0K"
+  apiKey: "AIzaSyBi-SMGsVLnahV1nRwsoZOyTJ4TMdQcHAk",
+  authDomain: "post-7139b.firebaseapp.com",
+  projectId: "post-7139b",
+  storageBucket: "post-7139b.appspot.com",
+  messagingSenderId: "225637369877",
+  appId: "1:225637369877:web:8ba4a086eab15bcc68e61c",
+  measurementId: "G-22N2CNM99N"
 };
 
 // Initialize Firebase
